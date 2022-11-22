@@ -2,10 +2,10 @@
 
 ## OVERVIEW
 
-Financial Institution:  Royal Bank of Canada [https://www.rbcroyalbank.com/personal.html]
-Product:                NOMI[https://www.rbcroyalbank.com/mobile/feature/nomi/index.html]
+Financial Institution:  Royal Bank of Canada [https://www.rbcroyalbank.com/personal.html]<br>
+Product:                NOMI[https://www.rbcroyalbank.com/mobile/feature/nomi/index.html]<br>
 Value addition:         Client engagement with RBC Mobile app, more than
-                        170 million insights given, clients save an avergae of $ 197 per month
+                        170 million insights given, clients save an avergae of $ 197 per month<br>
 Technology used         AI, Perdictive analytics 
 
 
@@ -62,15 +62,15 @@ ATB Financial, owned by Alberta Provincial government, uses AI to improve their 
 
 Though AI technology is being used in the banking sector in Canada, it is not widespread across the board. Only the top 5% of the banks are using it to add value to their clients. Canada, once a global leader in AI, should invest in AI research, rnurchuring and etaining talent here.
 
-* Ethics
+### Ethics
 
 The ethical use of AI in customer data is still mired with confusion in Canada withing the highly regulated Banking Sector. Current regulations governing the use of AI in the financial industry is a patchwork of laws or regulations. The federal government and the provincial governments need to step up and address this current situtation.
 
 * Eliminating bias, providing transpareny and fairness on decisions needs to be addressed.
 
-* Identify vulnerable customers
+### Identify vulnerable customers
 
-Banks AI use to identify financial vulnerable customers could be made legal to protect customers from financial burdens
+Banks AI use to identify financial vulnerable customers could be made legal to protect customers from financial burdens. Using AI, banks could proacively talk to clients to keep their credit scores at a good rating.
 
 ## Recommendations
 
