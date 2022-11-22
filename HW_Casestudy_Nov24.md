@@ -1,21 +1,23 @@
-# CASESTUDY: WILL RBC NOMI REPLACE PERSONAL BANKER USING ARTIFICIAL INTELLIGENCE AND PREDICTIVE TECHNOLOGY
+# CASE STUDY: RBC NOMI PERSONAL BANKING EXPERIENCE USING ARTIFICIAL INTELLIGENCE AND PREDICTIVE TECHNOLOGY
 
 ## OVERVIEW
 
-Financial Institution:  Royal Bank of Canada [RBC][https://www.rbcroyalbank.com/personal.html]<br>
+**Financial Institution:**  Royal Bank of Canada [RBC](https://www.rbcroyalbank.com/personal.html)<br>
 
 
-Product:                NOMI [NOMI][https://www.rbcroyalbank.com/mobile/feature/nomi/index.html]<br>
+**Product:**               [NOMI](https://www.rbcroyalbank.com/mobile/feature/nomi/index.html)<br>
 
 
-Value addition:         Client engagement with RBC Mobile app, more than
+**Value addition:**         Client engagement with RBC Mobile app, more than
                         170 million insights given, clients save an average of $ 197 per month<br>
 
 
-Technology used         AI, Predictive analytics 
+**Technology used**         AI, Predictive analytics 
 
 
-* Royal Bank of Canada [TSE:RY][https://g.co/kgs/GnGAV8] is the largest bank in Canada by market capitalization, founded in 1864. With a client base of over 17 million and around 89000 employees around the world, RBC has always been a front runner in introducing digital technology to its clients. Royal Bank of Canada introduced NOMI (pronounced Know-Me), AI powered virtual assistant in the fall of 2017 to offer clients personalised insights and a fully-automated savings service through RBC Mobile app. It was another first to the bank. 
+* Royal Bank of Canada [TSE:RY](https://g.co/kgs/GnGAV8)is the largest bank in Canada by market capitalization, founded in 1864. With a client base of over 17 million and around 89000 employees around the world, RBC has always been a front runner in introducing digital technology to its clients. 
+
+* Royal Bank of Canada introduced NOMI (pronounced Know-Me), AI powered virtual assistant in the fall of 2017 to offer clients personalised insights and a fully-automated savings service through RBC Mobile app. It was another first to the bank. 
 
 ## What is NOMI
 
@@ -82,13 +84,13 @@ Banks AI use to identify financial vulnerable customers could be made legal to p
 
 ## Recommendations
 
-Building Trust: Since it is emergencing techology, it is important for financial institutions to thoroughly stress test the technology and introduce AI chat bots who can actually find answers to build the trust in these new tech with its customers.
+**Building Trust**: Since it is emergencing techology, it is important for financial institutions to thoroughly stress test the technology and introduce AI chat bots who can actually find answers to build the trust in these new tech with its customers.
 
-Expand use of personlised insights on finance and investments to small business to help them with financial management. This would be of great advantage to the business owners, who do not have the time or skill to manage their finances.
+Expand use of personlised insights on finance and investments to **small business** to help them with **financial management**. This would be of great advantage to the business owners, who do not have the time or skill to manage their finances.
 
-Language and context are important to improve the client experience on the digital platforms the AI are using. 
+**Language and context** are important to improve the client experience on the digital platforms the AI are using. 
 
-More banks and financial institutions need to invest in actively improving engagement by staying committed to the cause.
+More banks and financial institutions need to **invest in actively improving engagement** by **staying committed** to the cause.
 
 ## Resources used
 
