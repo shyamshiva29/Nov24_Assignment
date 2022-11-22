@@ -2,14 +2,14 @@
 
 ## OVERVIEW
 
-Financial Institution:  Royal Bank of Canada
-Product:                NOMI
+Financial Institution:  Royal Bank of Canada [https://www.rbcroyalbank.com/personal.html]
+Product:                NOMI[https://www.rbcroyalbank.com/mobile/feature/nomi/index.html]
 Value addition:         Client engagement with RBC Mobile app, more than
                         170 million insights given, clients save an avergae of $ 197 per month
 Technology used         AI, Perdictive analytics 
 
 
-* Royal Bank of Canada (TSE:RY) is the largest bank in Canada by market capitlization, founded in 1864. With a client base of over 17 million and around 89000 employees around the world, RBC has always been a front runner in introducing digital technology to its clients. Royal Bank of Canada introduced NOMI (pronounced Know-Me), AI powered virtual assistant in the fall of 2017 to offer clients personalised insights and a fully-automated savings service through RBC Mobile app. It was another first to the bank. 
+* Royal Bank of Canada (TSE:RY[https://g.co/kgs/GnGAV8]) is the largest bank in Canada by market capitlization, founded in 1864. With a client base of over 17 million and around 89000 employees around the world, RBC has always been a front runner in introducing digital technology to its clients. Royal Bank of Canada introduced NOMI (pronounced Know-Me), AI powered virtual assistant in the fall of 2017 to offer clients personalised insights and a fully-automated savings service through RBC Mobile app. It was another first to the bank. 
 
 ## What is NOMI
 
