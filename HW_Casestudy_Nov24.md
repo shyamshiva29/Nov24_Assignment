@@ -16,6 +16,8 @@ Technology used         AI, Perdictive analytics
 
 NOMI Insights provides relevant, timely and personalized insights to manage day-t0-day finances of the clients. NOMI Find and Save, the automated money management system, uses predictive technology and AI to help clients find money they otherwise wouldn't have thought to save and moves it to a savings account automatically, creating a small nest egg.
 
+![image](rbc-budgets-mobile-screens.jpg)
+
 Along with NOMI Insights and NOMI Find and Save, the bank has further leveraged the AI technology to add more value to its clients by offering NOMI Budgets (giving calculated budget and recommendations on unique spending habits), ASK NOMI(chat bot) and NOMI Forecast (helps manage upcoming expenses, rolling forescast of expenses for the next 7 days). All these services are offered free of charges on the bank's mobile app.
 
 ## Will NOMI eliminate the need for a human Personal Banker
@@ -82,7 +84,7 @@ More banks and financial institions need to invest in actively improving engagem
 
 ## Resources used
 
-![image](rbc-budgets-mobile-screens.jpg)
+
 
 source: [https://www.retailbankerinternational.com/news/canadas-major-banks-optimise-ai-to-drive-growth-enhance-customer-experience/]<br>
 source: [https://www.bmo.com/main/personal/ways-to-bank/manage-my-money-insights/]<br>
